@@ -5,7 +5,7 @@
 ## I'm a fullstack developer, tech reviewer and computer nerd!!
 
 - 🔭 I recently got my Computer Engineering diploma!
-- 🌱 I’m a React fanboy 🤣
+- 🌱 I’m a React enthusiast 🤣
 - 👯 I’m currently learning GraphQL & Docker 
 - 🥅 2020 Goals: Become a fullstack legend
 - ⚡ Fun fact: I have two youtube channels, one for tech reviews and other for electronic music (I'm a DJ too)
