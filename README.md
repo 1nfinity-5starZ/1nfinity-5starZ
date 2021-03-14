@@ -4,17 +4,17 @@
 
 ## I'm a fullstack developer, tech reviewer and computer nerd!!
 
-- 🔭 I recently got my Computer Engineering diploma!
-- 🌱 I’m a React enthusiast 🤣
-- 👯 I’m currently learning GraphQL & Docker 
-- 🥅 2021 Goals: Become a frontend legend
+- 🔭 I recently got my São Paulo University Computer Engineering diploma 
+- 🌱 I’m a React enthusiast (working with it for 4 years)
+- 👯 I’m currently boosting my TypeScript knowledge 
+- 🥅 2021 Goals: Dive deeper in the frontend world and work closely with UI/UX
 - ⚡ Fun fact: I have two youtube channels, one for tech reviews and other for electronic music (I'm a DJ too)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube-tech]- Tech <br/>
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube-music]- Music <br />
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube-tech]- Tech<br/>
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube-music]- Music<br />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br/>
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
