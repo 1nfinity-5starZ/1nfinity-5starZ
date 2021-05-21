@@ -1,7 +1,5 @@
 ### Welcome, I'm Tommy 👋
 
-[Website](https://tommyherbst.tech)
-
 ## I'm a fullstack developer, tech reviewer and computer nerd!!
 
 - 🔭 I recently got my São Paulo University Computer Engineering diploma 
