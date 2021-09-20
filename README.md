@@ -2,11 +2,11 @@
 
 ## I'm a fullstack developer, tech reviewer and computer nerd!!
 
-- 🔭 I recently got my São Paulo University Computer Engineering diploma 
-- 🌱 I’m a React enthusiast (working with it for 4 years)
-- 👯 I’m currently boosting my TypeScript knowledge 
+- 🔭 I have my Computer Engineering bachelor degree at São Paulo State University - Brazil
+- 🌱 I’m a Mongo Eexpress React Node (MERN) stack enthusiast (5 years experience)
+- 👯 I’m currently boosting my TypeScript and design knowledge 
 - 🥅 2021 Goals: Dive deeper in the frontend world and work closely with UI/UX
-- ⚡ Fun fact: I have two youtube channels, one for tech reviews and other for electronic music (I'm a DJ too)
+- ⚡ Fun fact: I have two youtube channels, one for tech reviews (currently on pause) and other for electronic music (I'm a DJ too)
 
 ### Connect with me:
 
